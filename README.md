@@ -1,4 +1,5 @@
-### Oiii eu sou o Wesley Monteiro, estudante de programação e tecnologia!
+### Oiii! 
+### Me chamo Wesley Monteiro, sou estudante de programação e tecnologia!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wesleygmonteiro/">
