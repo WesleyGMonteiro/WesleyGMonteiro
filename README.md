@@ -21,7 +21,7 @@
 ### Estudando:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=orange&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=SpringBoot&labelColor=0D1117)&nbsp;
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg)&nbsp;
+![MySQL](https://github.com/WesleyGMonteiro/Icons/blob/main/MySQL/favicon-16x161.png?raw=true)&nbsp;
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WesleyGMonteiro&bg_color=000000&color=ce2222&line=e90707&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
