@@ -12,10 +12,10 @@
 ### Minhas skills:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=orange&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=SpringBoot&labelColor=0D1117)&nbsp;
-![MySQL](https://github.com/WesleyGMonteiro/Icons/blob/main/MySQL/favicon-32x321.png?raw=true)&nbsp;
-![HTML](https://github.com/WesleyGMonteiro/Icons/blob/main/HTML/favicon-32x32.png?raw=true)&nbsp;
+![MySQL](https://github.com/WesleyGMonteiro/Icons/blob/main/MySQL/favicon-16x161.png?raw=true)&nbsp;
+![HTML](https://github.com/WesleyGMonteiro/Icons/blob/main/HTML/favicon-16x16.png?raw=true)&nbsp;
 ![CSS](https://github.com/WesleyGMonteiro/Icons/blob/main/CSS/favicon-16x163.png?raw=true)&nbsp;
-![JavaScript](https://github.com/WesleyGMonteiro/Icons/blob/main/JavaScript/favicon-32x322.png?raw=true)&nbsp;
+![JavaScript](https://github.com/WesleyGMonteiro/Icons/blob/main/JavaScript/favicon-16x162.png?raw=true)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=red&labelColor=0D1117)&nbsp;
 
 ### Estudando:
