@@ -12,10 +12,10 @@
 ### Minhas skills:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=orange&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=SpringBoot&labelColor=0D1117)&nbsp;
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg)&nbsp;
-![HTML](https://raw.githubusercontent.com/simple-icons/simple-icons/32cc1889640c4d78963bb7131752b5e5377b11a1/icons/html5.svg)&nbsp;
-![CSS](https://raw.githubusercontent.com/simple-icons/simple-icons/32cc1889640c4d78963bb7131752b5e5377b11a1/icons/css3.svg)&nbsp;
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg)&nbsp;
+![MySQL](https://github.com/WesleyGMonteiro/Icons/blob/main/MySQL/favicon-32x321.png?raw=true)&nbsp;
+![HTML](https://github.com/WesleyGMonteiro/Icons/blob/main/HTML/favicon-32x32.png?raw=true)&nbsp;
+![CSS](https://github.com/WesleyGMonteiro/Icons/blob/main/CSS/favicon-16x163.png?raw=true)&nbsp;
+![JavaScript](https://github.com/WesleyGMonteiro/Icons/blob/main/JavaScript/favicon-32x322.png?raw=true)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=red&labelColor=0D1117)&nbsp;
 
 ### Estudando:
